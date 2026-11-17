@@ -1,0 +1,8 @@
+name: yokhto_manan
+description: Yokhto Manan / Khadamati local services app
+publish_to: 'none'
+version: 0.1.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+flutter:
+  uses-material-design: true
